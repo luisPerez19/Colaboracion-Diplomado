@@ -37,8 +37,8 @@ pelota.shape("circle")
 pelota.color("white")
 pelota.penup()
 pelota.goto(0, 0)
-pelota.dx = 0.5 #movimiento de la pelota en x
-pelota.dy = 0.5 #movimiento de la pelota en y
+pelota.dx = 0.2 #movimiento de la pelota en x
+pelota.dy = 0.2 #movimiento de la pelota en y
 
 #linea divisora
 division = turtle.Turtle()
